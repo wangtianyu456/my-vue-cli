@@ -1,6 +1,6 @@
 {
   "name": "vproject-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "wangtianyu456 <769423688@qq.com>",
   "homepage": "",
@@ -21,6 +21,6 @@
     "isbinaryfile": "^4.0.8",
     "lodash.clonedeep": "^4.5.0",
     "ora": "^6.0.1",
-    "vproject-cli-shared-utils": "0.0.0"
+    "vproject-cli-shared-utils": "^1.0.0"
   }
 }
