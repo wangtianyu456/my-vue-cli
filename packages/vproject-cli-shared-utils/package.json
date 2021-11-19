@@ -1,0 +1,14 @@
+{
+  "name": "vproject-cli-shared-utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wangtianyu456 <769423688@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {},
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "execa": "^6.0.0"
+  }
+}

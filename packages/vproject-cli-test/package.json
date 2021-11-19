@@ -1,0 +1,19 @@
+{
+  "name": "vproject-cli-test",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "wangtianyu456 <769423688@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/vproject-cli-test.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

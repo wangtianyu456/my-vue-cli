@@ -1,0 +1,14 @@
+{
+  "name": "root",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "create": "node packages/vproject-cli/bin/vue.js create hello"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
